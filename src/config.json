@@ -1,0 +1,17 @@
+{
+    "button_locations": {
+        "play_button": [295, 57],
+        "mode_select": [1670, 815],
+        "ai_button": [1670, 815],
+        "start_button": [1670, 920],
+        "hero_select": [1684, 742]
+    },
+
+    "hero_locations": {
+        "hulk": [1270, 93],
+        "groot": [1420, 135],
+        "thor": [1540, 215]
+    }
+
+
+}
